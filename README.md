@@ -5,11 +5,9 @@
  </h1>
 <h3 align="center">Full Stack, Web3 & AI engineer</h3>
 <br/>
-- 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
-- 🌱 Proficient in front-end technologies like React,Next.js, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
-- 👍 Experienced in blockchain development including Smart contract, DEX,, DeFi, DApp, Web3<br/>
-- 😍 Developed some AI Apps such as Chatbot and integrated with web and ChatGPT.
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+As a dedicated Senior Blockchain & Full-Stack Engineer, I bring over 6 years of experience in developing robust web applications and 3 years of specialized expertise in blockchain technology.
+I excel at transforming complex requirements into seamless, user-friendly solutions, leveraging my full-stack development skills and blockchain proficiency to drive innovation and efficiency.
+Since 2.2024, I have been learning ML.
 </div>
 
 # Main Skills #
