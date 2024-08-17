@@ -3,7 +3,7 @@
 <!--  <img align="left" src="./assets/1234 (16).png" width="270" height = '320'/> -->
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
  </h1>
-<h3 align="center">Full Stack, Web3 & AI engineer</h3>
+<h3 align="center">Full Stack, Blockchain engineer</h3>
 <br/>
 As a dedicated Senior Blockchain & Full-Stack Engineer, I bring over 6 years of experience in developing robust web applications and 3 years of specialized expertise in blockchain technology.
 I excel at transforming complex requirements into seamless, user-friendly solutions, leveraging my full-stack development skills and blockchain proficiency to drive innovation and efficiency.
