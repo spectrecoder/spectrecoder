@@ -9,7 +9,7 @@ As a dedicated Senior Blockchain & Full-Stack Engineer, I bring over 6 years of 
 I excel at transforming complex requirements into seamless, user-friendly solutions, leveraging my full-stack development skills and blockchain proficiency to drive innovation and efficiency.
 Since 2.2024, I have been learning ML.
 </div>
-
+<br><br><br><br>
 💪 My experience:
 EVM (solidity) smart contracts <br>
 Texas Holdem Poker Game on EVM & Polygon (Elgamal, ZKP) <br>
