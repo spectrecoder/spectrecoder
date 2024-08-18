@@ -11,15 +11,15 @@ Since 2.2024, I have been learning ML.
 </div>
 
 💪 My experience:
-
-EVM (solidity) smart contracts
-Texas Holdem Poker Game on EVM & Polygon (Elgamal, ZKP)
-APTOS Game development
-NEAR FT SC development, following NEP-141, NEP-148 standards 
-Solana Staking dapp development
-Decentralized CI/CD(IPFS)
-Full-stack (Node, Laravel, Jango, React, Vue)
-
+EVM (solidity) smart contracts <br>
+Texas Holdem Poker Game on EVM & Polygon (Elgamal, ZKP) <br>
+APTOS Game development<br>
+NEAR FT SC development, following NEP-141, NEP-148 standards <br>
+Solana Staking dapp development<br>
+Decentralized CI/CD(IPFS)<br>
+Full-stack (Node, Laravel, Jango, React, Vue)<br>
+LLM RAG Chatbot<br>
+Huggingface Contributor<br>
 </div>
 
 
