@@ -5,11 +5,11 @@
  </h1>
 <h3 align="center">Full Stack, Blockchain engineer</h3>
 <br/>
-As a dedicated Senior Blockchain & Full-Stack Engineer, I bring over 6 years of experience in developing robust web applications and 3 years of specialized expertise in blockchain technology.
-I excel at transforming complex requirements into seamless, user-friendly solutions, leveraging my full-stack development skills and blockchain proficiency to drive innovation and efficiency.
-Since 2.2024, I have been learning ML.
+As a dedicated Senior Blockchain & Full-Stack Engineer, I bring over 6 years of experience in developing robust web applications and 3 years of specialized expertise in blockchain technology.<br>
+I excel at transforming complex requirements into seamless, user-friendly solutions, leveraging my full-stack development skills and blockchain proficiency to drive innovation and efficiency.<br>
+Since 2.2024, I have been learning ML.<br>
 </div>
-<br><br><br><br>
+<br><br><br>
 💪 My experience:
 EVM (solidity) smart contracts <br>
 Texas Holdem Poker Game on EVM & Polygon (Elgamal, ZKP) <br>
@@ -22,7 +22,7 @@ LLM RAG Chatbot<br>
 Huggingface Contributor<br>
 </div>
 
-
+<br><br>
 # Reach out to me #
 <a href="mailto:smartpuck111@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 <a href="https://t.me/terryfoxa"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
