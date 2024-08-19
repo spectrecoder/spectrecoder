@@ -22,7 +22,3 @@ LLM RAG Chatbot<br>
 Huggingface Contributor<br>
 </div>
 
-<br><br>
-# Reach out to me #
-<a href="mailto:smartpuck111@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
-<a href="https://t.me/terryfoxa"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
