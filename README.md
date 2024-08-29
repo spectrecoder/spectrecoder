@@ -1,6 +1,6 @@
 #
 <p align='center'>
-  <img src='https://spectrecoder.vercel.app/api/profile?username=spectrecoder&theme=darkmode&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=spectrecoder&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
 
 ## Favorite Saying 👍
