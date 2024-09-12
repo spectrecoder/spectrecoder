@@ -10,10 +10,9 @@
 struct LinusTorvalds;
 
 impl LinusTorvalds {
-  /// Return Bill Gates quote
+  /// Return My quote
   fn said(&self) -> &str {
-    "Most good programmers do programming not because they expect to get paid /
-     or get adulation by the public, but because it is fun to program."
+    "First learn, then remove l. It's time to remove l, but don't stop first."
   }
 }
 
