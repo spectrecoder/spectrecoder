@@ -1,26 +1,23 @@
 #
-<p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=spectrecoder&theme=darkmode&data=followers,repositories,stars,commits' />
-</p>
-
 ## Favorite Saying 👍
 
 ```rust
 /// Spectrecoder's motto
 struct LinusTorvalds;
 
-impl LinusTorvalds {
-  /// Return My quote
-  fn said(&self) -> &str {
-    "First learn, then remove l. It's time to remove l, but don't stop first."
-  }
+fn show_secret2success() -> String {
+    String::from("xxxxxxxxxxxxxxxxxxxxx")
 }
 
 fn main() {
-  let linus_torvalds = LinusTorvalds;
-
-  println!("Linus Torvalds - {}", linus_torvalds.said());
+    let secret = show_secret2success();
+    println!("Secrets to Success are {}", secret);
 }
+
+```
+```
+cargo run
+Output: Secrets to Success are Love & Passion
 ```
 <br />
 
